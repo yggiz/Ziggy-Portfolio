@@ -1,23 +1,22 @@
 
-# Hi, I'm Ziggy Dolce
+# Ziggy Dolce -- Networking and Security Portfolio
  
-Network and security professional based in Central Florida, transitioning from
-field operations into NOC and security engineering.
+Hands-on labs and projects built while pursuing the CCNA 200-301 and CySA+
+certifications alongside a B.S. in Cybersecurity. Primary focus is network
+architecture and segmentation with security context applied throughout.
  
-## Certifications
-- CompTIA Security+ (active)
-- CompTIA Network+ (active)
-- CCNA 200-301 (in progress)
-- CySA+ (in progress)
+## Projects
  
-## Education
-- B.S. Cybersecurity, Miami Dade College (May 2026)
-- A.S. Cybersecurity, Wilmington University (December 2024)
+| Project | Description | Tools |
+|---------|-------------|-------|
+| [SOHO-VLAN-Segmentation](link) | SOHO network with VLAN segmentation, | Cisco Packet Tracer, |
+|  | inter-VLAN routing, and threat model | ACLs, ROAS |
+| [Multi-Site-Enterprise-OSPF](link) | Multi-site enterprise network with | Cisco Packet Tracer, |
+|  | dynamic routing, area design | OSPF, route filtering |
+| [CCNA-Lab-ROAS](link) | Router on a Stick inter-VLAN routing | Packet Tracer |
+| [Wazuh-Homelab](link) | SIEM setup with simulated incident | Wazuh, Ubuntu, |
+|  | response scenarios | Python |
  
-## What I Build
-Hands-on network and security labs focused on VLAN segmentation,
-routing protocols, access control, and threat modeling.
-See the pinned repos below.
- 
-## Connect
-LinkedIn: linkedin.com/in/ziggy-dolce
+## Technologies
+Cisco IOS, VLANs, OSPF, ROAS, SVI routing, ACLs, NAT,
+DTP, VTP, Wazuh SIEM, network threat modeling
